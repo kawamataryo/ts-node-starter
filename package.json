@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "ts-node --files src/index.ts",
-    "lint": "eslint --fix '{src,tests}/*.{ts,js}'",
-    "format": "prettier --write '{src,tests}/*.{ts,js}'",
+    "lint": "eslint --fix '{src,tests}/**/*.{ts,js}'",
+    "format": "prettier --write '{src,tests}/**/*.{ts,js}'",
     "test": "jest"
   },
   "repository": {
