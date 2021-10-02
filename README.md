@@ -1,18 +1,19 @@
 # ts-node-starter
 Starter project for ts-node.
 
-# Features
+## 🎨 Features
 
 - 🌟 Lint with [ESLint](https://github.com/eslint/eslint) 
 - 💅 Format with [Prettier](https://github.com/prettier/prettier)
 - 💯 Test with [Jest](https://github.com/facebook/jest)
 - 🥊 pre-commit lint with [Lefthook](https://github.com/evilmartians/lefthook)
 
-# Usage
+## 🚀 Try it now!
+Create a repository on following link.
 
-Create repository from template.
+https://github.com/kawamataryo/ts-node-starter/generate
 
-https://github.com/kawamataryo/resume-template/generate
+## 🛠 Usage
 
 **Setup**
 
