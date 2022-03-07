@@ -21,7 +21,7 @@
   "homepage": "https://github.com/kawamataryo/ts-node-starter#readme",
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.6",
-    "@types/jest": "^27.0.2",
+    "@types/jest": "27.4.1",
     "@types/node": "^16.10.2",
     "@typescript-eslint/eslint-plugin": "^4.32.0",
     "@typescript-eslint/parser": "^4.32.0",
