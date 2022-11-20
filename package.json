@@ -21,15 +21,15 @@
   "homepage": "https://github.com/kawamataryo/ts-node-starter#readme",
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.6",
-    "@types/jest": "^27.0.2",
+    "@types/jest": "^29.0.0",
     "@types/node": "^16.10.2",
     "@typescript-eslint/eslint-plugin": "^4.32.0",
     "@typescript-eslint/parser": "^4.32.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "jest": "^27.2.4",
+    "jest": "^29.0.0",
     "prettier": "^2.4.1",
-    "ts-jest": "^27.0.5",
+    "ts-jest": "^29.0.0",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.3"
   }
